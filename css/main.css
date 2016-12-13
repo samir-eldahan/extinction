@@ -62,11 +62,15 @@ h3 {
 
 img {
 	width: 30%;
-	margin: 0px 5%;
+	margin: 0 auto;
 	box-shadow: 7px 7px 5px;
-	border: solid 3px;
+	border: solid 3px; 	
+	
 }
 
+div { 
+	text-align: center;
+ }
 hr {
 	width: 40%;
 	margin-left: auto;
